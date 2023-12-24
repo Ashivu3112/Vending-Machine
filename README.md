@@ -11,3 +11,8 @@ Design patterns used -
 4. Association
 5. Composition
 6. Singleton pattern
+
+
+|||||||||||||                |||||||||||||||||               ||||||||||||||||
+|  Model    |   <--------->  |   Controller  |  <--------->  |     View     | 
+|||||||||||||                |||||||||||||||||               ||||||||||||||||
